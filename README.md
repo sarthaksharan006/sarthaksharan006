@@ -1,16 +1,34 @@
-## Hi there 👋
-
-<!--
-**sarthaksharan006/sarthaksharan006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> <!-- Animated name banner --> <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=36&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sarthak+Sharan+%F0%9F%9B%B8;I+build+things+that+fly%2C+sense%2C+and+think.;CSE+(Data+Science)+%40+Heritage+IT;Robots+%7C+Rockets+%7C+Code+%7C+CAD" alt="Typing SVG" /> <br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-sarthaksharan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthaksharan) [![GitHub](https://img.shields.io/badge/GitHub-sarthaksharan006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthaksharan006) [![Email](https://img.shields.io/badge/Email-sarthaksharan006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthaksharan006@gmail.com) [![Location](https://img.shields.io/badge/Kolkata%2C%20India-🇮🇳-success?style=for-the-badge)](https://maps.google.com/?q=Kolkata,India) </div> --- ## 🧭 Who I Am
+text
+ ┌──────────────────────────────────────────────────────────────────┐
+ │  CS undergrad who builds things that fly, sense, and think.      │
+ │  My work sits at the intersection of embedded systems,           │
+ │  aerospace engineering, and applied machine learning.            │
+ │                                                                  │
+ │  I don't just simulate. I build, test, break, and fix.          │
+ └──────────────────────────────────────────────────────────────────┘
+> 🎯 Currently: ISRO Robotics Challenge (IRoC-U 2026) Semi-finalist · Freelance CAD Designer · 1st-year CSE @ HITK --- ## 🚀 Featured Projects <table> <tr> <td width="50%"> ### 🚁 Autonomous Quadcopter (IRoC-U 2026) GNSS-denied autonomous drone with full mission cycle: search → detect → return → dock → redeploy. **Stack:** PX4 · ROS2 · Raspberry Pi 5 · VIO · SLAM · ArUco · LiDAR · Edge ML (13 TOPS) ![Status](https://img.shields.io/badge/Status-🔴%20Active-red?style=flat-square) ![Competition](https://img.shields.io/badge/ISRO%20IRoC--U%202026-Semi--finals-orange?style=flat-square) </td> <td width="50%"> ### 💉 Non-Invasive Blood Biomarker Scanner Portable multi-spectral (vis + NIR) sensing system with on-device ML inference. **Stack:** ESP32-S3 · TensorFlow Lite · Signal Processing · Edge AI ![Award](https://img.shields.io/badge/🏆%20Ideapolis%202026-1st%20Place-gold?style=flat-square) ![Award](https://img.shields.io/badge/🏆%20Hacktonix%202026-1st%20Place-gold?style=flat-square) </td> </tr> <tr> <td width="50%"> ### ✈️ Aircraft Conceptual Design Tool Python-based fixed-wing sizing tool: drag buildup, stall speed, L/D ratios, Reynolds/Mach-aware cruise. **Stack:** Python · Classical Aerodynamics · Numerical Methods [![Repo](https://img.shields.io/badge/GitHub-aero--solver-181717?style=flat-square&logo=github)](https://github.com/sarthaksharan006/aero-solver) </td> <td width="50%"> ### 🚀 Water Rocket — NSSC 2025 Single-stage 2.25L water rocket: 160m range at 75 PSI, stable roll, minimal lateral drift. **Approach:** Empirical optimization · Two-phase flow · Compressible gas dynamics ![Award](https://img.shields.io/badge/🥇%20NSSC%20IIT%20Kharagpur-Max%20Distance-gold?style=flat-square) ![Award](https://img.shields.io/badge/🥇%20NSSC%20IIT%20Kharagpur-Precision%20Target-gold?style=flat-square) </td> </tr> <tr> <td width="50%"> ### 🔭 Refractor Telescope & Custom Mount 50mm / 700mm refractor with a fully 3D-printed Alt-Az mount — built for lunar and planetary observation. **Tools:** Fusion 360 · FDM Printing · Optical Collimation · Siril · DeepSkyStacker </td> <td width="50%"> ### 🤖 BIS Recommendation Engine (RAG + FAISS) Retrieval-based chatbot for MSEs using document chunking, embedding generation, and vector search. **Stack:** Python · FAISS · sentence-transformers · Local LLM </td> </tr> </table> --- ## 🏆 Wins & Recognition | 🏅 Award | 📍 Event | 📅 Year | |---|---|---| | 🥇 Gold — Lift-Off (Water Rocket) | NSSC, IIT Kharagpur | 2025 | | 🥇 Gold — Maze Runner (Autonomous Robot) | NSSC, IIT Kharagpur | 2025 | | 🥇 Gold — IoT BidWars | SRIJAN, Jadavpur University | 2026 | | 🥇 1st Place — Ideapolis Ideathon | ACM HITK Student Chapter | 2026 | | 🥇 1st Place — Hacktonix | Future Institute of Engg. & Mgmt. | 2026 | | 🥇 1st Place — Water Rocket | Dakshh, HITK | 2026 | | 🥇 1st Place — Circuitrix | Dakshh, HITK | 2026 | | 🥈 2nd Place — NovatechX Ideathon | Dakshh, HITK | 2026 | | 🏅 Semi-finals Qualified | ISRO Robotics Challenge (IRoC-U) | 2026 | --- ## 🛠️ Tech Stack <div align="center"> **Embedded & Robotics** ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![PX4](https://img.shields.io/badge/PX4-Autopilot-5B3191?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) **Programming** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) **ML & AI** ![TensorFlow](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-4B8BBE?style=for-the-badge) ![Edge AI](https://img.shields.io/badge/Edge%20AI-Inference-blueviolet?style=for-the-badge) **CAD & Fabrication** ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6900?style=for-the-badge&logo=autodesk&logoColor=white) ![3D Printing](https://img.shields.io/badge/FDM%203D%20Printing-grey?style=for-the-badge) ![DFM](https://img.shields.io/badge/Design%20for%20Manufacturing-teal?style=for-the-badge) </div> --- ## 📊 GitHub Stats <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarthaksharan006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksharan006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksharan006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </div> --- ## 🎯 Current Focus
+python
+sarthak = {
+    "currently_building": [
+        "Autonomous quadcopter for ISRO IRoC-U 2026",
+        "Non-invasive blood biomarker scanner v2",
+    ],
+    "currently_learning": [
+        "Theoretical & computational physics",
+        "Foundational ML mathematics",
+        "SLAM & sensor fusion",
+    ],
+    "open_to": [
+        "Research internships",
+        "Aerospace & robotics projects",
+        "Hackathon teams",
+        "Intercollege collaboration",
+    ],
+    "fun_facts": [
+        "Built a telescope from scratch and used it to see Saturn's rings 🪐",
+        "Flew a water rocket 160m with zero GPS involved 🚀",
+        "Freelances in CAD for clients internationally 🌍",
+    ],
+}
+--- ## 🌌 Beyond the Code <div align="center"> 🔭 **Astrophotography** — Lunar craters, Jupiter's bands, Saturn's rings 🏹 **Archery** — Learning at college 📖 **Sport Science** — Reading enthusiast 🖨️ **3D Printing & CAD** — Client work + personal builds </div> --- <div align="center"> <img src="https://komarev.com/ghpvc/?username=sarthaksharan006&color=4FC3F7&style=flat-square&label=Profile+Views" alt="Profile Views"/> *"I don't just simulate. I build, test, break, and fix."* </div>
