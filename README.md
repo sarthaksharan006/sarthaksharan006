@@ -1,78 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=sarthak%20sharan&fontColor=ffffff&fontSize=40&fontAlignY=65&animation=fadeIn&fontFamily=Georgia&desc=building%20things%20that%20probably%20shouldn't%20work&descAlignY=82&descSize=13&descFontFamily=Georgia&descColor=a0a0c0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=sarthak%20sharan&fontColor=ffffff&fontSize=40&fontAlignY=65&animation=fadeIn&fontFamily=Georgia&desc=autonomous%20systems%20%C2%B7%20embedded%20sensing%20%C2%B7%20computational%20modelling&descAlignY=82&descSize=13&descFontFamily=Georgia&descColor=a0a0c0" width="100%" />
 
 </div>
 
 <br/>
 
-> first-year undergrad. building autonomous drones, biomedical sensors, and aircraft design tools from a bedroom in Kolkata.
-> 
-> also somehow winning competitions at IIT Kharagpur and qualifying for ISRO challenges. not sure how either.
+first-year CS undergrad at Heritage Institute of Technology, Kolkata. i work on autonomous robotics, embedded sensing systems, and physical engineering — hardware that has to survive contact with the real world.
+
+currently building a GPS-denied autonomous drone for the ISRO Robotics Challenge.
+
+<br/>
+
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzIwIDExMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzIwIiBoZWlnaHQ9IjExMCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jYXJkIHsgZmlsbDogI2Y4ZjhmYzsgcng6IDEwOyB9CiAgICAgIC5udW0geyBmb250LWZhbWlseTogR2VvcmdpYSwgc2VyaWY7IGZvbnQtc2l6ZTogMzBweDsgZm9udC13ZWlnaHQ6IDcwMDsgZmlsbDogIzFhMWEyZTsgfQogICAgICAubGJsIHsgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTFweDsgZmlsbDogIzg4ODsgbGV0dGVyLXNwYWNpbmc6IDAuMDRlbTsgfQogICAgICAuc3ViIHsgZm9udC1mYW1pbHk6IC1hcHBsZS1zeXN0ZW0sIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTBweDsgZmlsbDogI2FhYTsgfQogICAgICBAbWVkaWEgKHByZWZlcnMtY29sb3Itc2NoZW1lOiBkYXJrKSB7CiAgICAgICAgLmNhcmQgeyBmaWxsOiAjMWUxZTJlOyB9CiAgICAgICAgLm51bSB7IGZpbGw6ICNlMGUwZjA7IH0KICAgICAgICAubGJsIHsgZmlsbDogIzg4ODsgfQogICAgICAgIC5zdWIgeyBmaWxsOiAjNTU1OyB9CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgoKICA8IS0tIENhcmQgMSAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTcwIiBoZWlnaHQ9IjEwMCIgcng9IjEyIiBjbGFzcz0iY2FyZCIgc3Ryb2tlPSIjZTBlMGVlIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogIDx0ZXh0IHg9Ijg1IiB5PSI0OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9Im51bSI+OTwvdGV4dD4KICA8dGV4dCB4PSI4NSIgeT0iNjYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJsYmwiPnBvZGl1bSBmaW5pc2hlczwvdGV4dD4KICA8dGV4dCB4PSI4NSIgeT0iODIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJzdWIiPmFjcm9zcyA2IGNvbXBldGl0aW9uczwvdGV4dD4KCiAgPCEtLSBDYXJkIDIgLS0+CiAgPHJlY3QgeD0iMTg0IiB5PSIwIiB3aWR0aD0iMTcwIiBoZWlnaHQ9IjEwMCIgcng9IjEyIiBjbGFzcz0iY2FyZCIgc3Ryb2tlPSIjZTBlMGVlIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogIDx0ZXh0IHg9IjI2OSIgeT0iNDgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJudW0iPjM8L3RleHQ+CiAgPHRleHQgeD0iMjY5IiB5PSI2NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9ImxibCI+YWN0aXZlIGJ1aWxkczwvdGV4dD4KICA8dGV4dCB4PSIyNjkiIHk9IjgyIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ic3ViIj5kcm9uZSDCtyBzY2FubmVyIMK3IGFlcm8gdG9vbDwvdGV4dD4KCiAgPCEtLSBDYXJkIDMgLS0+CiAgPHJlY3QgeD0iMzY4IiB5PSIwIiB3aWR0aD0iMTcwIiBoZWlnaHQ9IjEwMCIgcng9IjEyIiBjbGFzcz0iY2FyZCIgc3Ryb2tlPSIjZTBlMGVlIiBzdHJva2Utd2lkdGg9IjAuNSIvPgogIDx0ZXh0IHg9IjQ1MyIgeT0iNDgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJudW0iPjfDlzwvdGV4dD4KICA8dGV4dCB4PSI0NTMiIHk9IjY2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ibGJsIj7wn6WHIGZpcnN0IHBsYWNlPC90ZXh0PgogIDx0ZXh0IHg9IjQ1MyIgeT0iODIiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGNsYXNzPSJzdWIiPklJVCBLR1AgwrcgSlUgwrcgSElUSyDCtyBGSUVNPC90ZXh0PgoKICA8IS0tIENhcmQgNCAtLT4KICA8cmVjdCB4PSI1NTIiIHk9IjAiIHdpZHRoPSIxNjgiIGhlaWdodD0iMTAwIiByeD0iMTIiIGNsYXNzPSJjYXJkIiBzdHJva2U9IiNlMGUwZWUiIHN0cm9rZS13aWR0aD0iMC41Ii8+CiAgPHRleHQgeD0iNjM2IiB5PSI0NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9Im51bSIgZm9udC1zaXplPSIyMiI+c2VtaTwvdGV4dD4KICA8dGV4dCB4PSI2MzYiIHk9IjY0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBjbGFzcz0ibnVtIiBmb250LXNpemU9IjIyIj5maW5hbHM8L3RleHQ+CiAgPHRleHQgeD0iNjM2IiB5PSI4MiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgY2xhc3M9ImxibCI+SVNSTyBJUm9DLVUgMjAyNjwvdGV4dD4KPC9zdmc+Cg==" width="100%" alt="stats" />
+</div>
 
 <br/>
 
 ---
 
-### the things i'm actually proud of
+### projects
 
 <br/>
 
-**autonomous quadcopter that navigates without GPS** &nbsp; [`active`](.)
+**autonomous quadcopter · GPS-denied navigation** &nbsp;&nbsp; `ISRO IRoC-U 2026 · semi-finals`
 
-ISRO gave us a challenge: full autonomous mission — search, detect, dock, redeploy — zero GPS. we're doing it. PX4 flight controller talking to ROS2 on a Pi 5, onboard SLAM and visual odometry keeping it honest, ArUco markers for precision docking. edge ML module for detection validation in progress. qualified for semi-finals.
-
-<br/>
-
-**non-invasive blood scanner** &nbsp; [`won ideapolis 2026 · won hacktonix 2026`](.)
-
-NIR spectroscopy + machine learning running inference *on the microcontroller itself*. no cloud, no phone. hold your finger to it and it estimates blood biomarkers. built the whole pipeline — sensing, signal processing, on-device TFLite on ESP32-S3. two first-place wins. still calibrating.
+full mission autonomy without GPS — search, detect, return, dock, redeploy. PX4 on STM32H7 handles flight control; ROS2 on a Raspberry Pi 5 handles high-level autonomy. SLAM, visual-inertial odometry, optical flow, and ArUco-assisted docking for localisation. edge ML module for detection validation in progress alongside the deterministic stack.
 
 <br/>
 
-**aircraft design tool from scratch** &nbsp; [`→ aero-solver`](https://github.com/sarthaksharan006/aero-solver)
+**non-invasive blood biomarker scanner** &nbsp;&nbsp; `🥇 Ideapolis 2026` &nbsp; `🥇 Hacktonix 2026`
 
-no black-box optimizers. skin friction drag, wetted area, interference effects computed from first principles. Reynolds and Mach corrections in the cruise solver. stall speed, L/D, thrust requirements as output. wrote it to design an RC aircraft for Kshitij at IIT Kharagpur.
-
-<br/>
-
-**water rocket: 160m, first place** &nbsp; [`NSSC 2025, IIT Kharagpur`](.)
-
-two-phase flow and compressible gas expansion make closed-form models useless. so we did it empirically — varied pressure, nozzle geometry, launch angle, fins — until it went 160m at 75 PSI with almost no lateral drift. won maximum distance *and* precision targeting.
+portable NIR + visible spectroscopy with on-device inference — TensorFlow Lite running on ESP32-S3, no cloud dependency. full pipeline from sensing and signal preprocessing to real-time prediction and remote monitoring. working on expanding the training dataset and improving calibration robustness.
 
 <br/>
 
-**refractor telescope + custom mount, built from parts** &nbsp; [`for fun`](.)
+**aircraft conceptual design tool** &nbsp;&nbsp; [`aero-solver ↗`](https://github.com/sarthaksharan006/aero-solver)
 
-50mm aperture, 700mm focal length. alt-az mount designed parametrically and 3D-printed. manually collimated. used it to see Saturn's rings.
+fixed-wing sizing tool built from first principles. drag computed from skin friction, wetted area, and interference — not aggregate estimates. iterative cruise solver with Reynolds and Mach corrections. used the outputs to design and fly an RC aircraft at Kshitij, IIT Kharagpur.
 
 <br/>
 
----
+**water rocket** &nbsp;&nbsp; `🥇 max distance · NSSC 2025, IIT Kharagpur` &nbsp; `🥇 precision targeting`
 
-### the scoreboard
+2.25 L, single stage. two-phase flow and compressible gas expansion make closed-form models unreliable, so the approach was empirical — systematic variation of pressure, nozzle geometry, launch angle, and fin config. 160 m at 75 PSI, stable roll, minimal lateral drift.
 
-```
-ISRO Robotics Challenge 2026    →  semi-finals
-Ideapolis 2026 (ACM HITK)       →  1st
-Hacktonix 2026 (FIEM)           →  1st
-SRIJAN 2026 (Jadavpur Uni)      →  1st
-Dakshh 2026 (HITK)              →  1st, 1st, 2nd
-NSSC 2025 (IIT Kharagpur)       →  1st, 1st
-```
+<br/>
+
+**refractor telescope + 3D-printed alt-az mount**
+
+50 mm aperture, 700 mm focal length. mount designed parametrically in Fusion 360, printed and assembled. manually collimated. used for lunar and planetary observation — Saturn's rings, Jupiter's bands, lunar crater detail.
+
+<br/>
+
+**BIS recommendation engine** &nbsp;&nbsp; `RAG + FAISS`
+
+retrieval-based chatbot for MSEs using document chunking, sentence-transformer embeddings, and FAISS vector search against a local LLM.
 
 <br/>
 
 ---
 
-### what i use
+### timeline
+
+<br/>
+
+<div align="center">
+<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzIwIDUyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzIwIiBoZWlnaHQ9IjUyMCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIHRleHQgeyBmb250LWZhbWlseTogLWFwcGxlLXN5c3RlbSwgQmxpbmtNYWNTeXN0ZW1Gb250LCAnU2Vnb2UgVUknLCBzYW5zLXNlcmlmOyB9CiAgICAgIC55ciAgIHsgZm9udC1zaXplOiAxMHB4OyBmaWxsOiAjYWFhOyBsZXR0ZXItc3BhY2luZzogMC4wNmVtOyBmb250LXdlaWdodDogNjAwOyB9CiAgICAgIC50aXRsZXsgZm9udC1zaXplOiAxM3B4OyBmaWxsOiAjMWExYTJlOyBmb250LXdlaWdodDogNjAwOyB9CiAgICAgIC5kZXNjIHsgZm9udC1zaXplOiAxMXB4OyBmaWxsOiAjNjY2OyB9CiAgICAgIC53aW4gIHsgZm9udC1zaXplOiAxMXB4OyBmaWxsOiAjNTM0QUI3OyBmb250LXdlaWdodDogNTAwOyB9CiAgICAgIC5hY3RpdmUgeyBmb250LXNpemU6IDExcHg7IGZpbGw6ICMwRjZFNTY7IGZvbnQtd2VpZ2h0OiA1MDA7IH0KICAgICAgLmRvdC1wcm9qZWN0IHsgZmlsbDogIzMwMmI2MzsgfQogICAgICAuZG90LXdpbiAgICAgeyBmaWxsOiAjN0Y3N0REOyB9CiAgICAgIC5kb3QtYWN0aXZlICB7IGZpbGw6ICMxRDlFNzU7IH0KICAgICAgLmxpbmUgeyBzdHJva2U6ICNlMGUwZWU7IHN0cm9rZS13aWR0aDogMS41OyBzdHJva2UtZGFzaGFycmF5OiAzIDM7IH0KICAgIDwvc3R5bGU+CiAgPC9kZWZzPgoKICA8IS0tIFZlcnRpY2FsIHNwaW5lIC0tPgogIDxsaW5lIHgxPSIxMDAiIHkxPSIyMCIgeDI9IjEwMCIgeTI9IjUwMCIgY2xhc3M9ImxpbmUiLz4KCiAgPCEtLSDilIDilIAgQXVnIDIwMjQg4pSA4pSAIC0tPgogIDx0ZXh0IHg9Ijg4IiB5PSIzOCIgdGV4dC1hbmNob3I9ImVuZCIgY2xhc3M9InlyIj5BVUcgMjAyNDwvdGV4dD4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIzNCIgcj0iNSIgY2xhc3M9ImRvdC1wcm9qZWN0Ii8+CiAgPHRleHQgeD0iMTE2IiB5PSIzMSIgY2xhc3M9InRpdGxlIj5yZWZyYWN0b3IgdGVsZXNjb3BlICsgYWx0LWF6IG1vdW50PC90ZXh0PgogIDx0ZXh0IHg9IjExNiIgeT0iNDYiIGNsYXNzPSJkZXNjIj41MCBtbSDCtyA3MDAgbW0gZm9jYWwgbGVuZ3RoIMK3IFNhdHVybidzIHJpbmdzIG9ic2VydmVkPC90ZXh0PgoKICA8IS0tIOKUgOKUgCBOb3YgMjAyNSDilIDilIAgLS0+CiAgPHRleHQgeD0iODgiIHk9IjEwOCIgdGV4dC1hbmNob3I9ImVuZCIgY2xhc3M9InlyIj5OT1YgMjAyNTwvdGV4dD4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDQiIHI9IjUiIGNsYXNzPSJkb3Qtd2luIi8+CiAgPHRleHQgeD0iMTE2IiB5PSIxMDEiIGNsYXNzPSJ0aXRsZSI+d2F0ZXIgcm9ja2V0IMK3IE5TU0MgMjAyNSwgSUlUIEtoYXJhZ3B1cjwvdGV4dD4KICA8dGV4dCB4PSIxMTYiIHk9IjExNiIgY2xhc3M9ImRlc2MiPjIuMjUgTCDCtyAxNjAgbSByYW5nZSDCtyA3NSBQU0k8L3RleHQ+CiAgPHRleHQgeD0iMTE2IiB5PSIxMzAiIGNsYXNzPSJ3aW4iPvCfpYcgbWF4IGRpc3RhbmNlICZuYnNwOyZuYnNwOyDwn6WHIHByZWNpc2lvbiB0YXJnZXRpbmc8L3RleHQ+CgogIDwhLS0g4pSA4pSAIERlYyAyMDI1IOKUgOKUgCAtLT4KICA8dGV4dCB4PSI4OCIgeT0iMTc4IiB0ZXh0LWFuY2hvcj0iZW5kIiBjbGFzcz0ieXIiPkRFQyAyMDI1PC90ZXh0PgogIDxjaXJjbGUgY3g9IjEwMCIgY3k9IjE3NCIgcj0iNSIgY2xhc3M9ImRvdC1wcm9qZWN0Ii8+CiAgPHRleHQgeD0iMTE2IiB5PSIxNzEiIGNsYXNzPSJ0aXRsZSI+YWlyY3JhZnQgY29uY2VwdHVhbCBkZXNpZ24gdG9vbDwvdGV4dD4KICA8dGV4dCB4PSIxMTYiIHk9IjE4NiIgY2xhc3M9ImRlc2MiPmZpcnN0LXByaW5jaXBsZXMgYWVyb2R5bmFtaWMgc2l6aW5nIMK3IFB5dGhvbiDCtyB1c2VkIGF0IEtzaGl0aWosIElJVCBLR1A8L3RleHQ+CgogIDwhLS0g4pSA4pSAIERlYyAyMDI1IHdpbnMg4pSA4pSAIC0tPgogIDxjaXJjbGUgY3g9IjEwMCIgY3k9IjIxNiIgcj0iNSIgY2xhc3M9ImRvdC13aW4iLz4KICA8dGV4dCB4PSIxMTYiIHk9IjIxMyIgY2xhc3M9InRpdGxlIj5EYWtzaGggMjAyNSwgSElUSzwvdGV4dD4KICA8dGV4dCB4PSIxMTYiIHk9IjIyOCIgY2xhc3M9IndpbiI+8J+lhyB3YXRlciByb2NrZXQgJm5ic3A7Jm5ic3A7IPCfpYcgQ2lyY3VpdHJpeCAmbmJzcDsmbmJzcDsg8J+liCBOb3ZhdGVjaFggaWRlYXRob248L3RleHQ+CgogIDwhLS0g4pSA4pSAIEphbiAyMDI2IOKUgOKUgCAtLT4KICA8dGV4dCB4PSI4OCIgeT0iMjc4IiB0ZXh0LWFuY2hvcj0iZW5kIiBjbGFzcz0ieXIiPkpBTiAyMDI2PC90ZXh0PgogIDxjaXJjbGUgY3g9IjEwMCIgY3k9IjI3NCIgcj0iNSIgY2xhc3M9ImRvdC1wcm9qZWN0Ii8+CiAgPHRleHQgeD0iMTE2IiB5PSIyNzEiIGNsYXNzPSJ0aXRsZSI+bm9uLWludmFzaXZlIGJsb29kIGJpb21hcmtlciBzY2FubmVyPC90ZXh0PgogIDx0ZXh0IHg9IjExNiIgeT0iMjg2IiBjbGFzcz0iZGVzYyI+TklSIHNwZWN0cm9zY29weSDCtyBURkxpdGUgb24gRVNQMzItUzMgwrcgZWRnZSBpbmZlcmVuY2U8L3RleHQ+CiAgPHRleHQgeD0iMTE2IiB5PSIzMDAiIGNsYXNzPSJ3aW4iPvCfpYcgSWRlYXBvbGlzIDIwMjYgwrcgQUNNIEhJVEsgJm5ic3A7Jm5ic3A7IPCfpYcgSGFja3Rvbml4IDIwMjYgwrcgRklFTTwvdGV4dD4KCiAgPCEtLSDilIDilIAgRmViIDIwMjYg4pSA4pSAIC0tPgogIDx0ZXh0IHg9Ijg4IiB5PSIzNDgiIHRleHQtYW5jaG9yPSJlbmQiIGNsYXNzPSJ5ciI+RkVCIDIwMjY8L3RleHQ+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMzQ0IiByPSI1IiBjbGFzcz0iZG90LXdpbiIvPgogIDx0ZXh0IHg9IjExNiIgeT0iMzQxIiBjbGFzcz0idGl0bGUiPlNSSUpBTiAyMDI2LCBKYWRhdnB1ciBVbml2ZXJzaXR5PC90ZXh0PgogIDx0ZXh0IHg9IjExNiIgeT0iMzU2IiBjbGFzcz0iZGVzYyI+RVNQMzIgSW9UIGNpcmN1aXQgYnVpbGQgwrcgc3RyaWN0IHRpbWUgY29uc3RyYWludHM8L3RleHQ+CiAgPHRleHQgeD0iMTE2IiB5PSIzNzAiIGNsYXNzPSJ3aW4iPvCfpYcgSW9UIEJpZFdhcnM8L3RleHQ+CgogIDwhLS0g4pSA4pSAIEZlYiAyMDI2IGRyb25lIOKUgOKUgCAtLT4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSI0MTAiIHI9IjUiIGNsYXNzPSJkb3QtYWN0aXZlIi8+CiAgPHRleHQgeD0iMTE2IiB5PSI0MDciIGNsYXNzPSJ0aXRsZSI+YXV0b25vbW91cyBxdWFkY29wdGVyIMK3IEdOU1MtZGVuaWVkPC90ZXh0PgogIDx0ZXh0IHg9IjExNiIgeT0iNDIyIiBjbGFzcz0iZGVzYyI+UFg0IMK3IFJPUzIgwrcgU0xBTSDCtyBWSU8gwrcgQXJVY28gZG9ja2luZyDCtyBlZGdlIE1MPC90ZXh0PgogIDx0ZXh0IHg9IjExNiIgeT0iNDM2IiBjbGFzcz0iYWN0aXZlIj7il48gYWN0aXZlIMK3IElTUk8gSVJvQy1VIDIwMjYgc2VtaS1maW5hbHM8L3RleHQ+CgogIDwhLS0g4pSA4pSAIG5vdyDilIDilIAgLS0+CiAgPHRleHQgeD0iODgiIHk9IjQ3OCIgdGV4dC1hbmNob3I9ImVuZCIgY2xhc3M9InlyIj5OT1c8L3RleHQ+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iNDc0IiByPSI2IiBjbGFzcz0iZG90LWFjdGl2ZSIgb3BhY2l0eT0iMC4yNSIvPgogIDxjaXJjbGUgY3g9IjEwMCIgY3k9IjQ3NCIgcj0iNCIgY2xhc3M9ImRvdC1hY3RpdmUiLz4KICA8dGV4dCB4PSIxMTYiIHk9IjQ3MSIgY2xhc3M9InRpdGxlIj5mcmVlbGFuY2UgQ0FEIMK3IDNEIHByaW50aW5nPC90ZXh0PgogIDx0ZXh0IHg9IjExNiIgeT0iNDg2IiBjbGFzcz0iZGVzYyI+ZG9tZXN0aWMgKyBpbnRlcm5hdGlvbmFsIGNsaWVudHMgwrcgRnVzaW9uIDM2MCDCtyBwYXJhbWV0cmljIGRlc2lnbjwvdGV4dD4KICA8dGV4dCB4PSIxMTYiIHk9IjUwMCIgY2xhc3M9ImFjdGl2ZSI+4pePIG9uZ29pbmc8L3RleHQ+Cjwvc3ZnPgo=" width="100%" alt="project and competition timeline" />
+</div>
+
+<br/>
+
+---
+
+### tools
 
 ```
-hardware    ESP32 · Raspberry Pi · STM32 · LiDAR · IMU · NIR sensors
-robotics    ROS2 · PX4 · SLAM · VIO · ArUco · sensor fusion
-ML          TensorFlow Lite · edge inference · FAISS · RAG
-CAD         Fusion 360 · parametric design · FDM printing
-code        Python · C · LaTeX · MySQL
+robotics & embedded    ROS2 · PX4 · ESP32 · STM32 · SLAM · VIO · sensor fusion
+ML & inference         TensorFlow Lite · FAISS · edge AI · computer vision
+CAD & fabrication      Fusion 360 · parametric design · FDM · DFM
+programming            Python · C · LaTeX · MySQL
 ```
 
 <br/>
@@ -81,12 +89,9 @@ code        Python · C · LaTeX · MySQL
 
 <div align="center">
 
-*heritage institute of technology, kolkata · CSE (data science) · 2025–2029*
-
-<br/>
-
-[![linkedin](https://img.shields.io/badge/-sarthaksharan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthaksharan) &nbsp;
-[![email](https://img.shields.io/badge/-sarthaksharan006@gmail.com-333?style=flat&logo=gmail&logoColor=white)](mailto:sarthaksharan006@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-sarthaksharan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthaksharan) &nbsp;
+[![email](https://img.shields.io/badge/email-sarthaksharan006%40gmail.com-555?style=flat&logo=gmail&logoColor=white)](mailto:sarthaksharan006@gmail.com) &nbsp;
+[![github](https://img.shields.io/badge/github-sarthaksharan006-181717?style=flat&logo=github&logoColor=white)](https://github.com/sarthaksharan006)
 
 <br/>
 
